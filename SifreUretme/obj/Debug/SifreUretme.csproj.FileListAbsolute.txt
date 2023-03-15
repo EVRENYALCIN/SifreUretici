@@ -1,0 +1,11 @@
+C:\Users\evren.yalcin\Desktop\SifreUretme\bin\Debug\SifreUretme.exe.config
+C:\Users\evren.yalcin\Desktop\SifreUretme\bin\Debug\SifreUretme.exe
+C:\Users\evren.yalcin\Desktop\SifreUretme\bin\Debug\SifreUretme.pdb
+C:\Users\evren.yalcin\Desktop\SifreUretme\obj\Debug\SifreUretme.csproj.AssemblyReference.cache
+C:\Users\evren.yalcin\Desktop\SifreUretme\obj\Debug\SifreUretme.csproj.SuggestedBindingRedirects.cache
+C:\Users\evren.yalcin\Desktop\SifreUretme\obj\Debug\SifreUretme.Form1.resources
+C:\Users\evren.yalcin\Desktop\SifreUretme\obj\Debug\SifreUretme.Properties.Resources.resources
+C:\Users\evren.yalcin\Desktop\SifreUretme\obj\Debug\SifreUretme.csproj.GenerateResource.cache
+C:\Users\evren.yalcin\Desktop\SifreUretme\obj\Debug\SifreUretme.csproj.CoreCompileInputs.cache
+C:\Users\evren.yalcin\Desktop\SifreUretme\obj\Debug\SifreUretme.exe
+C:\Users\evren.yalcin\Desktop\SifreUretme\obj\Debug\SifreUretme.pdb
